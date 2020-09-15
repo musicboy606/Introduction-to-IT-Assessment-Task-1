@@ -1,8 +1,7 @@
-# test
+# Introduction to IT, Assessment Task 1
 
-<h2>Introduction</h2>
-
-<h3>My Profile</h3>
+<h2>My Profile</h2>
+<h3>Personal Information</h3>
 
 <p>My name is Jeremy Ng and my student code and email is S3873032@student.rmit.edu.au. My background is Malaysian/Chinese, I have completed part of a Bachelor of Education (Primary) course, English is my first and only language so far. 
 
