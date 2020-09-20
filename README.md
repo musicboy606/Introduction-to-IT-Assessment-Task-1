@@ -29,6 +29,9 @@
 <p>The way that I will obtain the skills needed to apply for this job would be to learn effectively. I am willing to put in the hard work to achieve good grades for courses I enrol in at RMIT and am looking forward to enjoying each course up until I have the necessary skills to apply for a job like the one above. <p>
 
 <h3>Personal Profile</h3>
+<img src="16 Personality Test Result.jpg">
+<img src="Learning Styles test Result.jpg">
+<img src="The Nerdy Test Result.jpg">
 
 <p>The results from the test don’t have much influence on me. I think that the tests results help me vaguely recognise myself, but I don’t feel like I should take them literally as it is not an individual reflection on me. The first two somewhat help me to realise my personality and what I tend to do in my life. <p>
 
