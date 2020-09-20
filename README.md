@@ -19,7 +19,7 @@
 
 <h3>Ideal Job</h3>
 <a href="https://www.seek.com.au/job/50558504?type=standout#searchRequestToken=0446c8c4-da3d-4a51-9064-4165a598b60e"> Mid-level Service Desk Technician </a>
-<img src="Mid-level Service Desk Technician.jpg" 
+<img src="Mid-level Service Desk Technician.jpg"
 <p>This job is appealing for me because it involves helping people with problems that may arise. I work in an office role at the moment and one day would want to move into an IT support role.<p>
 
 <p>This job involves working from remote areas away from customers and rarely onsite as well. Helping with servers and desktops. Having knowledge of cloud based infrastructure. Need to be highly knowledgeable and experienced with solutions to maintain best practice environments. <p>
@@ -40,7 +40,7 @@
 <p>I think that the tests confirm my style of learning and working in a team. I am very much comfortable for someone to take the charge and follow their lead. The tests also show that I like to think about things in detail and make sure we are going in the right direction. In the 16 personalities test, the highest percentage was feeling. I think that was a reflection of my respect for people as other people and to always do the best I can in all situations. <p>
 
 <p>I think when forming a team I should look for someone who is able to take charge and possibly have other people who are like me and willing to contribute. I would also look for people who are respectful and responsible. <p>
-  
+
 <h3>Project Idea</h3>
 
 <p>As someone who is looking to buy a home in the next year I would love to have an app that is able to use augmented reality to effectively help homeowners to imagine what their homes could look like. It could possibly be used by stores to help remotely advise people on their purchases online. We are seeing that more and more people are willing to try online shopping especially during these tough times during the pandemic. <p>
