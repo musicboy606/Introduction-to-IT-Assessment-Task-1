@@ -2,6 +2,7 @@
 
 <h2>My Profile</h2>
 <h3>Personal Information</h3>
+<img src="Profile Pic.jpg" alt="Profile Pic.jpg" width="200" height="200">
 
 <p>My name is Jeremy Ng and my student code and email is S3873032@student.rmit.edu.au. My background is Malaysian/Chinese, I have completed part of a Bachelor of Education (Primary) course, English is my first and only language so far. <p>
 
