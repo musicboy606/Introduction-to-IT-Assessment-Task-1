@@ -30,7 +30,9 @@
 
 <h3>Personal Profile</h3>
 <img src="16 Personality Test Result.jpg">
-<img src="Learning Styles test Result.jpg">
+
+<img src="Learning Styles Test Result.jpg">
+
 <img src="The Nerdy Test Result.jpg">
 
 <p>The results from the test don’t have much influence on me. I think that the tests results help me vaguely recognise myself, but I don’t feel like I should take them literally as it is not an individual reflection on me. The first two somewhat help me to realise my personality and what I tend to do in my life. <p>
