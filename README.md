@@ -60,3 +60,14 @@
 <p>The skills required to create the app would be software engineers. It would be important for one of the software engineers to have a reasonable amount of experience in VR or augmented reality to lead the development of the app. On average a VR app would take about 3-6 months to develop and prototype. This is a significant amount of time to set aside with no foreseeable profit. <p>
 
  <p>If this was a successful project then the outcome would be some brands seeing the potential for the app and integrating their products into the app. This development would mean that the app would need a lot of attention especially if working for brands that are based in different countries. The teams might be individual for each brand to maximise productivity and continuity.<p>
+
+<h3>References</h3>
+<p>AnonymousAdvocate - Assertive Advocate (INFJ-A) | 16Personalities' 2020, viewed September 20, 2020, from <a href="https://www.16personalities.com/profiles/9859324675f5b"><p>
+
+<p>Engineer, S 2020, Software Engineer Salaries in Australia | Indeed.com', Au.indeed.com, viewed September 20, 2020, from <a href="https://au.indeed.com/salaries/software-engineer-Salaries"><p>
+
+<p>Furniture & Homeware - Australia | Statista Market Forecast' 2020, viewed September 20, 2020, from <https://www.statista.com/outlook/255/107/furniture-homeware/australia><p>
+
+<p>Learning Styles Quiz' 2020, viewed September 20, 2020, from <http://www.emtrain.eu/learning-styles/><P>
+
+<p>Results of the Nerdy Personality Attributes Scale' 2020, viewed September 20, 2020, from <https://openpsychometrics.org/tests/NPAS/results.php?s=56&f=22,18,20,7,9><p>
