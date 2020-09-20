@@ -19,7 +19,7 @@
 
 <h3>Ideal Job</h3>
 <a href="https://www.seek.com.au/job/50558504?type=standout#searchRequestToken=0446c8c4-da3d-4a51-9064-4165a598b60e"> Mid-level Service Desk Technician </a>
-<img src="Mid-level Service Desk technicial.jpg">
+<img src="Mid-level Service Desk Technician.jpg" 
 <p>This job is appealing for me because it involves helping people with problems that may arise. I work in an office role at the moment and one day would want to move into an IT support role.<p>
 
 <p>This job involves working from remote areas away from customers and rarely onsite as well. Helping with servers and desktops. Having knowledge of cloud based infrastructure. Need to be highly knowledgeable and experienced with solutions to maintain best practice environments. <p>
