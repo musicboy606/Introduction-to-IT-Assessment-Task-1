@@ -62,7 +62,8 @@
  <p>If this was a successful project then the outcome would be some brands seeing the potential for the app and integrating their products into the app. This development would mean that the app would need a lot of attention especially if working for brands that are based in different countries. The teams might be individual for each brand to maximise productivity and continuity.<p>
 
 <h3>References</h3>
-<p>AnonymousAdvocate - Assertive Advocate (INFJ-A) | 16Personalities' 2020, viewed September 20, 2020, from <a href="https://www.16personalities.com/profiles/9859324675f5b"><p>
+
+<p>AnonymousAdvocate - Assertive Advocate (INFJ-A) | 16Personalities' 2020, viewed September 20, 2020, from <a href="https://www.16personalities.com/profiles/9859324675f5b"> </a> <p>
 
 <p>Engineer, S 2020, Software Engineer Salaries in Australia | Indeed.com', Au.indeed.com, viewed September 20, 2020, from <a href="https://au.indeed.com/salaries/software-engineer-Salaries"><p>
 
