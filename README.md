@@ -62,12 +62,12 @@
  <p>If this was a successful project then the outcome would be some brands seeing the potential for the app and integrating their products into the app. This development would mean that the app would need a lot of attention especially if working for brands that are based in different countries. The teams might be individual for each brand to maximise productivity and continuity.<p>
 
 <h3>References</h3>
-<p>AnonymousAdvocate - Assertive Advocate (INFJ-A) | 16Personalities' 2020, viewed September 20, 2020, from <a href="https://www.16personalities.com/profiles/9859324675f5b"><p>
+<p>AnonymousAdvocate - Assertive Advocate (INFJ-A) | 16Personalities' 2020, viewed September 20, 2020, from <a href="https://www.16personalities.com/profiles/9859324675f5b" </A><p>
 
-<p>Engineer, S 2020, Software Engineer Salaries in Australia | Indeed.com', Au.indeed.com, viewed September 20, 2020, from <a href="https://au.indeed.com/salaries/software-engineer-Salaries"><p>
+<p>Engineer, S 2020, Software Engineer Salaries in Australia | Indeed.com', Au.indeed.com, viewed September 20, 2020, from <a href="https://au.indeed.com/salaries/software-engineer-Salaries" </a><p>
 
-<p>Furniture & Homeware - Australia | Statista Market Forecast' 2020, viewed September 20, 2020, from <https://www.statista.com/outlook/255/107/furniture-homeware/australia><p>
+<p>Furniture & Homeware - Australia | Statista Market Forecast' 2020, viewed September 20, 2020, from <a href="https://www.statista.com/outlook/255/107/furniture-homeware/australia" </a><p>
 
-<p>Learning Styles Quiz' 2020, viewed September 20, 2020, from <http://www.emtrain.eu/learning-styles/><P>
+<p>Learning Styles Quiz' 2020, viewed September 20, 2020, from <a href="http://www.emtrain.eu/learning-styles/" </a><P>
 
-<p>Results of the Nerdy Personality Attributes Scale' 2020, viewed September 20, 2020, from <https://openpsychometrics.org/tests/NPAS/results.php?s=56&f=22,18,20,7,9><p>
+<p>Results of the Nerdy Personality Attributes Scale' 2020, viewed September 20, 2020, from <a href="https://openpsychometrics.org/tests/NPAS/results.php?s=56&f=22,18,20,7,9" </a><p>
