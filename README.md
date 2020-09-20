@@ -63,12 +63,12 @@
 
 <h3>References</h3>
 
-<p>AnonymousAdvocate - Assertive Advocate (INFJ-A) | 16Personalities' 2020, viewed September 20, 2020, from <a href="https://www.16personalities.com/profiles/9859324675f5b"> </a> <p>
+<p>AnonymousAdvocate - Assertive Advocate (INFJ-A) | 16Personalities' 2020, viewed September 20, 2020, from <a href="https://www.16personalities.com/profiles/9859324675f5b"> 16 personalities </a><p>
 
-<p>Engineer, S 2020, Software Engineer Salaries in Australia | Indeed.com', Au.indeed.com, viewed September 20, 2020, from <a href="https://au.indeed.com/salaries/software-engineer-Salaries"><p>
+<p>Engineer, S 2020, Software Engineer Salaries in Australia | Indeed.com', Au.indeed.com, viewed September 20, 2020, from <a href="https://au.indeed.com/salaries/software-engineer-Salaries"> Software Engineer Salaries</a><p>
 
-<p>Furniture & Homeware - Australia | Statista Market Forecast' 2020, viewed September 20, 2020, from <a href="https://www.statista.com/outlook/255/107/furniture-homeware/australia"><p>
+<p>Furniture & Homeware - Australia | Statista Market Forecast' 2020, viewed September 20, 2020, from <a href="https://www.statista.com/outlook/255/107/furniture-homeware/australia"> Furniture & Homeware Australia Revenue </a> <p>
 
-<p>Learning Styles Quiz' 2020, viewed September 20, 2020, from <a href="http://www.emtrain.eu/learning-styles/"><P>
+<p>Learning Styles Quiz' 2020, viewed September 20, 2020, from <a href="http://www.emtrain.eu/learning-styles/"> Learning Styles </a> <P>
 
-<p>Results of the Nerdy Personality Attributes Scale' 2020, viewed September 20, 2020, from <a href="https://openpsychometrics.org/tests/NPAS/results.php?s=56&f=22,18,20,7,9"><p>
+<p>Results of the Nerdy Personality Attributes Scale' 2020, viewed September 20, 2020, from <a href="https://openpsychometrics.org/tests/NPAS/results.php?s=56&f=22,18,20,7,9"> Nerdy Test </a> <p>
